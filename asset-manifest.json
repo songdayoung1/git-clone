@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/movie_app_2019/static/css/main.bab0b925.chunk.css",
-    "main.js": "/movie_app_2019/static/js/main.2a1fe440.chunk.js",
-    "main.js.map": "/movie_app_2019/static/js/main.2a1fe440.chunk.js.map",
-    "runtime-main.js": "/movie_app_2019/static/js/runtime-main.a7100e44.js",
-    "runtime-main.js.map": "/movie_app_2019/static/js/runtime-main.a7100e44.js.map",
-    "static/js/2.3a6ee7db.chunk.js": "/movie_app_2019/static/js/2.3a6ee7db.chunk.js",
-    "static/js/2.3a6ee7db.chunk.js.map": "/movie_app_2019/static/js/2.3a6ee7db.chunk.js.map",
-    "index.html": "/movie_app_2019/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/movie_app_2019/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.3a6ee7db.chunk.js.LICENSE.txt": "/movie_app_2019/static/js/2.3a6ee7db.chunk.js.LICENSE.txt"
+    "main.css": "/git-clone/static/css/main.bab0b925.chunk.css",
+    "main.js": "/git-clone/static/js/main.2a1fe440.chunk.js",
+    "main.js.map": "/git-clone/static/js/main.2a1fe440.chunk.js.map",
+    "runtime-main.js": "/git-clone/static/js/runtime-main.c2f9e919.js",
+    "runtime-main.js.map": "/git-clone/static/js/runtime-main.c2f9e919.js.map",
+    "static/js/2.13cf7529.chunk.js": "/git-clone/static/js/2.13cf7529.chunk.js",
+    "static/js/2.13cf7529.chunk.js.map": "/git-clone/static/js/2.13cf7529.chunk.js.map",
+    "index.html": "/git-clone/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/git-clone/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.13cf7529.chunk.js.LICENSE.txt": "/git-clone/static/js/2.13cf7529.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7100e44.js",
-    "static/js/2.3a6ee7db.chunk.js",
+    "static/js/runtime-main.c2f9e919.js",
+    "static/js/2.13cf7529.chunk.js",
     "static/css/main.bab0b925.chunk.css",
     "static/js/main.2a1fe440.chunk.js"
   ]
